@@ -1,0 +1,13 @@
+Titlu: Quiz Game
+
+Descriere: Aplicatia propusa este un joc de tip quiz care provoaca jucatorii sa raspunda la intrebari cu variante multiple de raspuns (grile) sau la intrebari cu raspuns scurt, avand teme variate precum cunostinte generale, sport, tehnologie si altele. Jucatorii trebuie sa selecteze raspunsul corect pentru a avansa la nivelul urmator, iar la fiecare raspuns corect primesc un numar de puncte. Clasamentul general este actualizat in timp real, oferind jucatorilor o imagine asupra progresului propriu si a locului ocupat in comparatie cu alti participanti.
+
+Obiective: Acumularea de cunostinte
+Cresterea gradului de interactivitate si de implicare a utilizatorilor
+Descoperirea unui mod distractiv de a invata
+Incurajarea competitiei prin clasamente publice.
+
+Proiectul va respecta urmatoarele cerinte:
+- RESTful API using Spring Boot
+- any DB 
+- functionality: managing some data (ex: manage goods in a store <add> <remove> <edit> <view>, or manage some users in a platform <add> <remove> <edit> <view>)
